@@ -1,0 +1,14 @@
+__pycache__
+*/__pycache__
+**/__pycache__
+.vscode
+*/.vscode
+**/.vscode
+*.onnx
+.DS_Store
+./Deeplearning/weights/*
+**/*.pkl
+*.pkl
+*.zip
+backup/*
+gender_submission.csv
